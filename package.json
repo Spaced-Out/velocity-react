@@ -23,11 +23,11 @@
   "homepage": "https://github.com/crashlytics/velocity-react#readme",
   "dependencies": {
     "lodash": "^3.10.1",
-    "react-addons-transition-group": "^0.14.0",
     "velocity-animate": "^1.2.3"
   },
   "peerDependencies": {
     "react": "^0.14.0",
+    "react-addons-transition-group": "^0.14.0",
     "react-dom": "^0.14.0"
   },
   "devDependencies": {
